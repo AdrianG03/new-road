@@ -1,0 +1,12 @@
+# CSS
+- __height:__ para el alto del contenedor o ítem
+- __widht:__ para el ancho de un contenedor o ítem
+- __padding:__ para poner un espaciado dentro de algun item, si se coloca 0 se quitan todos por defecto
+- __font-family:__ es para colocar el tipo de letra que va a aparecer en donde se indique
+- __background-color:__ cambia el color del fondo, puede ser un color en especifico o hexadecimal o rgb indicado
+- __position:__ determina la posicion de un elemento en el documento, puede ser arriba abajo y asi
+- __text-align:__ indica cual es la alineación del texto dentro de ese elemento
+- __top:__ dependiendo de la cantidad que se le indique, coloca el contenido más lejos de la parte de arriba
+- __left:__ dependiendo del numero indicado, marca que tan lejos está de la izquierda
+- __font-size:__ con el se indica el tamaño de la fuente
+- __[type=""]:__ si es que en e css se tiene que especifivar algun elemento especifico aqui se indica
